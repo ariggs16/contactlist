@@ -17,7 +17,6 @@ const style = {
     lineHeight:5,
     listStyle:'none',
     fontFamily:'Comic Sans MS',
-    
   }
 }
 
